@@ -29,8 +29,8 @@ I'm a passionate and curious **software developer** on a journey to become a **f
 ---
 
 ## 📂 Featured Projects
-- [🔗 (https://github.com/Tech-it-with-Billy/Deepseek-Customer-Support-Chatbot)](#) – Customer Support Chatbot  
-- [🔗 (https://github.com/Tech-it-with-Billy/Digital-Store-Web-Scraping-Project)](#) – Web scrapping project 
+- https://github.com/Tech-it-with-Billy/Deepseek-Customer-Support-Chatbot – Customer Support Chatbot  
+- https://github.com/Tech-it-with-Billy/Digital-Store-Web-Scraping-Project – Web scrapping project 
 
 ---
 
