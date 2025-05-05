@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Billy]!
+# 👋 Hi there, I'm Billy!
 
 I'm a passionate and curious **software developer** on a journey to become a **full stack engineer**, with a background in **data science, finance, and machine learning**. I love building real-world projects that solve practical problems—currently focused on **backend and full-stack web development**.
 
@@ -29,9 +29,8 @@ I'm a passionate and curious **software developer** on a journey to become a **f
 ---
 
 ## 📂 Featured Projects
-- [🔗 Jiji Kenya Car Scraper](#) – Automated data scraper using Selenium  
-- [🔗 Airbnb Clone (WIP)](#) – Full-stack web app with bookings, reviews, and payments  
-- [🔗 EDA Portfolio](#) – Exploratory data analysis on real-world datasets
+- [🔗 (https://github.com/Tech-it-with-Billy/Deepseek-Customer-Support-Chatbot)](#) – Customer Support Chatbot  
+- [🔗 (https://github.com/Tech-it-with-Billy/Digital-Store-Web-Scraping-Project)](#) – Web scrapping project 
 
 ---
 
