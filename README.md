@@ -46,8 +46,8 @@ I'm a passionate and focused software engineering learner currently enrolled in 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tech-it-with-Billy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-it-with-Billy&layout=compact&theme=tokyonight" />
 </p>
 
 ---
