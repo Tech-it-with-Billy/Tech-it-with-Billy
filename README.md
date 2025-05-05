@@ -1,42 +1,81 @@
-# 👋 Hi there, I'm Billy!
+<!-- GitHub Profile README Template -->
 
-I'm a passionate and curious **software developer** on a journey to become a **full stack engineer**, with a background in **data science, finance, and machine learning**. I love building real-world projects that solve practical problems—currently focused on **backend and full-stack web development**.
-
----
-
-## 💡 What I'm Working On
-- 🚧 Building an **Airbnb Clone** with Django, PostgreSQL, and Django REST Framework  
-- 🔍 Creating a **car listings scraper** for Jiji Kenya using Selenium  
-- 🌐 Exploring **frontend development** with HTML, CSS, JavaScript, and React
+<h1 align="center">Hi there 👋🏾, I'm Billy</h1>
+<h3 align="center">Aspiring Full Stack Developer | Frontend @ ALX | Backend @ ProDev</h3>
 
 ---
 
-## 🔧 Tech Stack & Tools
-- **Languages**: Python, JavaScript, SQL  
-- **Frameworks**: Django, Django REST Framework, Flask, React (learning)  
-- **Tools**: Git, GitHub, Postman, Docker (learning)  
-- **Cloud & Data**: AWS (SageMaker), PostgreSQL, Pandas, NumPy, Matplotlib  
-- **Other**: Selenium, BeautifulSoup, Jupyter, Figma
+🌟 **About Me**
+---
+
+<p>
+I'm a passionate and focused software engineering learner currently enrolled in the ALX Frontend Development and ProDev Backend Development programs. My journey into software engineering began with a fascination for how much technology has improved day-to-day business operations. 
+</p>
+
+<p>
+💡 I aim to contribute to impactful <strong>financial software</strong> and <strong>business support systems</strong> that drive efficiency, innovation, and real-world change. I'm particularly inspired by how well-built tech tools can solve problems at scale and empower users and organizations alike.
+</p>
 
 ---
 
-## 📘 My Learning Goals
-- Become confident with **Django and RESTful APIs**
-- Gain experience in **deploying full-stack applications**
-- Master **database design and backend best practices**
-- Build a strong **project portfolio**
+🛠️ **Tech Stack & Tools**
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
-- https://github.com/Tech-it-with-Billy/Deepseek-Customer-Support-Chatbot – Customer Support Chatbot  
-- https://github.com/Tech-it-with-Billy/Digital-Store-Web-Scraping-Project – Web scrapping project 
+🚀 **Current Projects**
+---
+
+- 🔨 Building an **Airbnb Clone** (React + Django + PostgreSQL): Full-featured booking system with authentication, payments, and property management.
+- 🤖 Created an **AI Chatbot** using LangChain, CSV data, and LLMs to handle FAQs and product queries.
+- 💼 Exploring **finance-focused web applications** to support small businesses with streamlined processes and better decision-making tools.
 
 ---
 
-## 📫 Let's Connect
-- 🌐 LinkedIn: [https://www.linkedin.com/in/billy-ochieng-ai-ml-fa/](#)
+📈 **GitHub Stats**
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-_Thanks for visiting!_ 🚀
+📫 **Let’s Connect**
+---
+
+<p>
+💬 I’m always happy to connect, collaborate, and learn from others in tech. Whether you're working on similar goals or have ideas to share, feel free to reach out!
+</p>
+
+- 📧 Email: ochiengbilly02@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/billy-ochieng-ai-ml-fa/   
+- 🐦 Twitter: https://x.com/FBillyochi58892
+
+---
+
+🎯 **Goals for 2025**
+---
+
+- ✅ Complete ALX Frontend and ProDev Backend programs
+- ✅ Deploy full stack projects using CI/CD and cloud services
+- ✅ Contribute to open-source financial or business tools
+- ✅ Land a full-time software engineering role
+
+---
+
+📌 *“Technology alone doesn’t change the world. The people who use it do.”*
+
+---
+
