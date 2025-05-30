@@ -1,7 +1,7 @@
 <!-- GitHub Profile README Template -->
 
 <h1 align="center">Hi there 👋🏾, I'm Billy</h1>
-<h3 align="center">Aspiring Full Stack Developer | Frontend @ ALX | Backend @ ProDev</h3>
+<h3 align="center">Aspiring Data Scientist | Full Stack Developer | Frontend @ ALX | Backend @ ProDev</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 ---
 
 <p>
-I'm a passionate and focused software engineering learner currently enrolled in the ALX Frontend Development and ProDev Backend Development programs. My journey into software engineering began with a fascination for how much technology has improved day-to-day business operations. 
+I'm a passionate and focused Data Scientist and software engineering learner currently enrolled in the ALX Frontend Development and ProDev Backend Development programs. My journey into software engineering began with a fascination for how much technology has improved day-to-day business operations. 
 </p>
 
 <p>
@@ -60,7 +60,7 @@ I'm a passionate and focused software engineering learner currently enrolled in 
 </p>
 
 - 📧 Email: ochiengbilly02@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/billy-ochieng-ai-ml-fa/   
+- 💼 LinkedIn: https://www.linkedin.com/in/billy-ochieng-ds-fa-se/ 
 - 🐦 Twitter: https://x.com/FBillyochi58892
 
 ---
